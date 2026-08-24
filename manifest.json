@@ -1,0 +1,12 @@
+{
+  "name": "Aula | Control de asistencia",
+  "short_name": "Aula",
+  "description": "Control de asistencia privado y offline",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f7fb",
+  "theme_color": "#f6f7fb",
+  "lang": "es",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
